@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pdf
+*.html
+*.png
+ornekler/**/notlar_*.md
+ornekler/**/cikti/
